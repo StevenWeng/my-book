@@ -21,7 +21,7 @@ echo 'You got to trust me on this, I saved the world'
 4. 44444
 
 
-{% hint style="success" %}
+{% hint style="danger" %}
 #### test
 
 * 1
