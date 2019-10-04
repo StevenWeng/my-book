@@ -25,7 +25,8 @@ sss
 
 aasa
 
-assdaf
-
-
+```java
+int i = 0;
+for(;;){}
+```
 
